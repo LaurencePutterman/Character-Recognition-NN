@@ -3,6 +3,7 @@ Neural network that can be programmed to recognize a single character drawn into
 
 Uses kivy for the GUI and numpy for the matrices and linear algebra functions. 
 
+Adapted from http://iamtrask.github.io/2015/07/12/basic-python-network/
 
 TO USE: 
 
